@@ -36,10 +36,21 @@
   color: black;
   font-size: 25px;
   border-botom: 1px solid #dfdfdf;
+  font_family: 'quicksanddash', sans-serif;
+  font_weight: bold;
 }
 header {
   border-top: 9px solid #222222  
 }
 hrm {
   clear:both;
+}
+h1 {
+font-family: 'quicksanddash', sans-serif;
+font_weight: bold;
+font_size: 48px;
+}
+h2 {
+  font-family: 'quicksandbold', sans-serif;
+  font_weight: bold;
 }
