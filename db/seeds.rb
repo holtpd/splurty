@@ -5,3 +5,4 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Quote.create(saying: 'Work like there is someone working twenty-four hours a day to take it all away from you.', author: 'Mark Cuban')
